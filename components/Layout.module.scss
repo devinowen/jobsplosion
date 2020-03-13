@@ -1,0 +1,13 @@
+.header {
+  height: 70px;
+  position: absolute;
+
+  .logo {
+    width: 50px;
+    margin: 10px;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

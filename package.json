@@ -8,8 +8,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "@rebass/layout": "^4.0.6",
     "next": "9.3.0",
     "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "react-dom": "16.13.0",
+    "react-wordart": "^1.9.3",
+    "rebass": "^4.0.7",
+    "sass": "^1.26.3",
+    "theme-ui": "^0.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.0",
+    "@types/react": "^16.9.23",
+    "@types/theme-ui": "^0.3.0",
+    "typescript": "^3.8.3"
   }
 }
