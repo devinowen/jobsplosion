@@ -69,7 +69,7 @@ const Home = () => (
         </div>
       </main>
 
-      <footer>
+      <footer className={styles['footer']}>
         <a
           href="https://savviest.com"
           target="_blank"
